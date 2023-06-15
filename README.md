@@ -4,4 +4,4 @@
 
 ### День 5
 
-[Здесь вы моежете её посмотреть](https://ivannikashin.github.io/placeholder/)
+[Здесь вы моежете её посмотреть](https://ivannikashin.github.io/PlayGame/)
